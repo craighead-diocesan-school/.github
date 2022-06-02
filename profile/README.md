@@ -1,6 +1,4 @@
-# Craighead Diocesan School
-
-## Welcome
+# Welcome
 
 Welcome to our GitHub Organisation page. Here you can find the public templates we use to learn coding at our school. Our focus is on web development, starting with static sites with HTML/CSS/JS and leading into reactive web apps with SvelteKit.
 
